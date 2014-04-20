@@ -1,5 +1,8 @@
 ﻿#pragma strict
 
+
+//HI IM TRENTON AND I LIKE BEARDS
+
 function Update()
 {
 	ResizeSpriteToScreen();
