@@ -2,6 +2,7 @@
 
 
 //HI IM TRENTON AND I LIKE BEARDS
+//LEL
 
 function Update()
 {
